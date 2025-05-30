@@ -64,7 +64,7 @@
     "@types/node": "^20.12.7",
     "@typescript-eslint/eslint-plugin": "^7.7.0",
     "@typescript-eslint/parser": "^7.7.0",
-    "ava": "^6.1.2",
+    "ava": "^6.3.0",
     "browserify": "^17.0.0",
     "browserify-shim": "^3.8.16",
     "cli-color": "^2.0.4",
